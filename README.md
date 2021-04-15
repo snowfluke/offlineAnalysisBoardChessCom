@@ -2,7 +2,7 @@
 
 # How to use
 1. Open folder www.chess.com folder
-2. Double Click on Chesscom Offline Board by Awal Ariansyah.html
+2. Double Click on index.html
 3. Or Right Click and open in your own browser
 4. Enjoy it!
 
