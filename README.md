@@ -1,4 +1,4 @@
-# Chess.com Offline Analysis Board by Awal Ariansyah
+# Chess.com Offline Analysis Board
 
 # How to use
 1. Open folder www.chess.com folder
@@ -8,7 +8,7 @@
 
 # Feature
 + Same as the Online Chess.com version
-- The chess engine doesn't work (still in progress)
+- The chess engine didn not work
 
 # Contact
 email: awalariansyah7@gmail.com
